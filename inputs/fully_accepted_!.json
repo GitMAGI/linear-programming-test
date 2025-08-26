@@ -1,0 +1,81 @@
+{
+    "data_pt15": [
+        {
+            "period": 1,
+            "OFFID": ["b"],
+            "OFFList": [1000],
+            "OFFPrices": [25],
+            "OFFZones": [1],
+            "OFFMAR": [1],
+            "BIDID": [],
+            "BIDList": [],
+            "BIDPrices": [],
+            "BIDZones": [],
+            "BIDMAR": [],
+            "Zones": [1],
+            "ZoneNames": ["ZON1"]
+        },
+        {
+            "period": 2,
+            "OFFID": ["c"],
+            "OFFList": [1000],
+            "OFFPrices": [25],
+            "OFFZones": [1],
+            "OFFMAR": [1],
+            "BIDID": [],
+            "BIDList": [],
+            "BIDPrices": [],
+            "BIDZones": [],
+            "BIDMAR": [],
+            "Zones": [1],
+            "ZoneNames": ["ZON1"]
+        },
+        {
+            "period": 3,
+            "OFFID": ["d"],
+            "OFFList": [1000],
+            "OFFPrices": [25],
+            "OFFZones": [1],
+            "OFFMAR": [1],
+            "BIDID": [],
+            "BIDList": [],
+            "BIDPrices": [],
+            "BIDZones": [],
+            "BIDMAR": [],
+            "Zones": [1],
+            "ZoneNames": ["ZON1"]
+        },
+        {
+            "period": 4,
+            "OFFID": ["e"],
+            "OFFList": [1000],
+            "OFFPrices": [25],
+            "OFFZones": [1],
+            "OFFMAR": [1],
+            "BIDID": [],
+            "BIDList": [],
+            "BIDPrices": [],
+            "BIDZones": [],
+            "BIDMAR": [],
+            "Zones": [1],
+            "ZoneNames": ["ZON1"]
+        }
+    ],
+    "data_pt60": [
+        {
+            "period": 1,
+            "OFFID": [],
+            "OFFList": [],
+            "OFFPrices": [],
+            "OFFZones": [],
+            "OFFMAR": [],
+            "BIDID": ["a"],
+            "BIDList": [100],
+            "BIDPrices": [30],
+            "BIDZones": [1],
+            "BIDMAR": [1],
+            "Zones": [1],
+            "ZoneNames": ["ZON1"]
+        }
+    ]
+}
